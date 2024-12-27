@@ -55,7 +55,7 @@ cd secure-data-lookup
        host: 'localhost',
        user: 'root',
        password: 'password',
-       database: 'coapp_db'
+       database: 'your_database_name'
      });
      ```
 3. Start the server:
@@ -131,6 +131,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or feedback, please contact:
-- **Name**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Name**: Jacques
+- **GitHub**: [Your GitHub Profile](https://github.com/Jacques717)
